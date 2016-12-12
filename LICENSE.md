@@ -1,4 +1,17 @@
-# Released under MIT License
+
+
+Copyright (c) 2016 Takahiro Hirofuchi
+
+I have the copyright of the contents I wrote for my home page. These contents
+are not realeased under MIT License.
+
+
+---
+I used a nice Jekyll theme Lanyon that is released under MIT License. Thanks!
+The below is the license notice of Lanyon.
+
+
+Released under MIT License
 
 Copyright (c) 2014 Mark Otto.
 

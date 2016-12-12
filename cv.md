@@ -67,7 +67,7 @@ Visiting researcher of ACIS Lab, University of Florida, USA
 
 Key achievements:
 
-- Investigation on the impact of earthquakes on IT infrastracture
+- Investigation on the impact of earthquakes on IT infrastructure
 - Disaster mitigation techniques enabled by virtualization technology
 - Automatic session control for rapid virtual cluster evacuation over WAN
 
@@ -84,7 +84,7 @@ Key achievements:
 - A guest-OS-transparent Mobile IPv6 tunneling mechanism (Kagemusha)
 - A energy-efficient datacenter management system using postcopy live migration (GriVon)
 - A wide-area live migration system using active pre-caching and postcopy techniques (xNBD-WAN)
-- Superviser of Ph.D. students of University of Tokyo as an expert of virtual machine technology
+- Supervisor of Ph.D. students of University of Tokyo as an expert of virtual machine technology
 
 
 ### 2008.04 - 2010.03

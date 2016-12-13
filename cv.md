@@ -18,14 +18,14 @@ Currently, he is working on system software for non-volatile memory technology a
   Takahiro Hirofuchi, Ryousei Takano,  
   Proceedings of the seventh ACM Symposium on Cloud Computing (SoCC2016), pp.112-125, Oct 2016  
   **Best Paper Award**,  
-  DOI: 10.1145/2987550.2987570  
+  DOI: [10.1145/2987550.2987570](http://doi.org/10.1145/2987550.2987570)  
   [More info (GitHub)](https://github.com/takahiro-hirofuchi/raminate)
 
 - SimGrid VM: Virtual Machine Support for a Simulation Framework of Distributed Systems,  
   Takahiro Hirofuchi, Adrien Lebre, Laurent Pouilloux,  
   IEEE Transactions on Cloud Computing, pp.1-14, IEEE, Sep 2015  
-  DOI: 10.1109/TCC.2015.2481422  
-  PDF (Full Text)
+  DOI: [10.1109/TCC.2015.2481422](http://doi.org/10.1109/TCC.2015.2481422)  
+  [PDF (Full Text)](http://grivon.apgrid.org/assets/article/201509-ieeetcc-hirofuchi.pdf)
 
 
 Other publications are [here](https://grivon.github.io/pub-en.html).
@@ -44,7 +44,7 @@ Tenured senior researcher, AIST
 
 Key achievements:
 
-- A hypervisor support for hybrid main memory systems (RAMinate)
+- A hypervisor support for hybrid main memory systems ([RAMinate](https://github.com/takahiro-hirofuchi/raminate))
 - System software for non-volatile memory (tbd, ongoing)
 - System software for software-based packet processing (tbd, ongoing)
 
@@ -56,8 +56,8 @@ Invited research scientist of ASCOLA Research Group, Ecole des Mines de Nantes, 
 
 Key achievements:
 
-- The virtual machine support of SimGrid (SimGrid VM)
-- A software tool to measure the memory update speed of a VM (Qemu-DPT)
+- The virtual machine support of SimGrid ([SimGrid VM](http://simgrid.gforge.inria.fr))
+- A software tool to measure the memory update speed of a VM ([Qemu-DPT](https://github.com/grivon/yabusame-qemu-dpt))
 
 ### 2012.02 - 2012.03
 
@@ -80,10 +80,10 @@ Tenure-track researcher, AIST (Tenure-track senior researcher since 2013)
 
 Key achievements:
 
-- The production-level code of postcopy live migration Qemu/KVM (Yabusame)
-- A guest-OS-transparent Mobile IPv6 tunneling mechanism (Kagemusha)
-- A energy-efficient datacenter management system using postcopy live migration (GriVon)
-- A wide-area live migration system using active pre-caching and postcopy techniques (xNBD-WAN)
+- The production-level code of postcopy live migration Qemu/KVM ([Yabusame](http://grivon.apgrid.org/quick-kvm-migration))
+- A guest-OS-transparent Mobile IPv6 tunneling mechanism ([Kagemusha](http://grivon.apgrid.org/kagemusha))
+- A energy-efficient datacenter management system using postcopy live migration ([GriVon](http://grivon.apgrid.org/green-datacenter))
+- A wide-area live migration system using active pre-caching and postcopy techniques ([xNBD-WAN](https://grivon.github.io/assets/article/201312-ieice-hirofuchi.pdf))
 - Supervisor of Ph.D. students of University of Tokyo as an expert of virtual machine technology
 
 
@@ -95,7 +95,7 @@ Post-doctoral researcher of ITRI, AIST
 
 Key achievements:
 
-- A hypervisor-independent live storage migration mechanism (xNBD)
+- A hypervisor-independent live storage migration mechanism ([xNBD](https://bitbucket.org/hirofuchi/xnbd/))
 - A postcopy live migration for Qemu/KVM (Yabusame)
 
 ### 2008.02 - 2008.03
@@ -218,5 +218,5 @@ Takahiro Hirofuchi, Ph.D.
 Information Technology Research Institute (ITRI)  
 National Institute of Advanced Industrial Science and Technology (AIST)  
 Central 1, Umezono 1-1-1, Tsukuba, Ibaraki, Japan 305-8560  
-E-mail: t.hirofuchi ____ aist.go.jp
+E-mail: t.hirofuchi __ aist.go.jp
 

@@ -166,6 +166,9 @@ Budget: a lot
 October 2016  
 The Best Paper Award in ACM Symposium on Cloud Computing 2016.
 
+January 2015  
+The Best Poster Award in Annual Meeting on Advanced Computing System and Infrastructure (ACSI) 2015.
+
 March 2014  
 The Yamashita SIG Research Award by Information Processing Society of Japan.
 

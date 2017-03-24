@@ -28,7 +28,7 @@ Currently, he is working on system software for non-volatile memory technology a
   [PDF (Full Text)](http://grivon.apgrid.org/assets/article/201509-ieeetcc-hirofuchi.pdf)
 
 
-Other publications are [here](https://grivon.github.io/pub-en.html).
+Other publications are [here](../pub-en.html).
 
 
 

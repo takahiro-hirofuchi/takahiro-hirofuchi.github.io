@@ -19,7 +19,7 @@ title: Publications
   DOI: [10.1109/TCC.2015.2481422](http://doi.org/10.1109/TCC.2015.2481422)  
   [PDF (Full Text)](http://grivon.apgrid.org/assets/article/201509-ieeetcc-hirofuchi.pdf)
 
-Other publications are [here](https://grivon.github.io/pub-en.html).
+Other publications are [here](../pub-en.html).
 
 
 

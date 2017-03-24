@@ -6,7 +6,7 @@ title: CV
 Takahiro Hirofuchi, Ph.D. is a senior researcher of National Institute of Advanced Industrial Science and Technology (AIST).
 
 - A member of Cyber Physical Cloud Group of Information Technology Research Institute of AIST
-- A member of AI Cloud Team of AI Research Center of AIST as a secondary appointment
+- A member of the joint laboratory of AIST and TITECH (RWBC-OIL) as a secondary appointment
 
 He is an expert of system software, operating system, and networking technology.
 Currently, he is working on system software for non-volatile memory technology and software-based packet processing.

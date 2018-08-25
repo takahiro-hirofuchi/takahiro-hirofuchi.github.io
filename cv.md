@@ -11,10 +11,8 @@ Takahiro Hirofuchi, Ph.D. is a senior researcher of National Institute of Advanc
 He is an expert of system software, operating system and networking technology.
 Currently, he is working on system software for non-volatile memory technology and software-based packet processing.
 
-He is also appointed as planning officer to support strategic planning and administration of the research organization.
 
-
-## Selected Publications
+## Recent Selected Publications
 
 - RAMinate: Hypervisor-based Virtualization for Hybrid Main Memory Systems,  
   Takahiro Hirofuchi, Ryousei Takano,  
@@ -37,7 +35,7 @@ Other publications are [here](../pub-en.html).
 ## Professional Experience
 
 
-### 2017.04 - Present
+### 2017.04 - 2018.03
 
 Planning Officer, Research Planning Office, Department of Information Technology and Human Factors, AIST
 

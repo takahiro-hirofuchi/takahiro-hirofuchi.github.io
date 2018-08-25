@@ -9,7 +9,7 @@ Takahiro Hirofuchi, Ph.D. is a senior researcher of National Institute of Advanc
 - A member of the joint laboratory of AIST and TITECH (RWBC-OIL)
 
 He is an expert of system software, operating system and networking technology.
-Currently, he is working on system software for non-volatile memory technology and software-based packet processing.
+Currently, he is working on system software for non-volatile memory technology, approximate computing and software-based packet processing.
 
 
 ## Recent Selected Publications

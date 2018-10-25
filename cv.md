@@ -51,8 +51,7 @@ Tenured senior researcher, AIST
 Key achievements:
 
 - A hypervisor support for hybrid main memory systems ([RAMinate](https://github.com/takahiro-hirofuchi/raminate))
-- System software for non-volatile memory (tbd, ongoing)
-- System software for software-based packet processing (tbd, ongoing)
+- System software for software-based packet processing
 
 ### 2013.01 - 2013.12
 

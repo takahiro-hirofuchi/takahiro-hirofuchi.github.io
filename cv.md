@@ -4,13 +4,25 @@ title: CV
 ---
 
 Takahiro Hirofuchi, Ph.D. is a senior researcher of National Institute of Advanced Industrial Science and Technology (AIST).
+He is an expert of system software technologies.
 
 - A member of Cyber Physical Cloud Group of Information Technology Research Institute of AIST
 - A member of the joint laboratory of AIST and TITECH (RWBC-OIL)
 
-He is an expert of system software, operating system and networking technology.
-Currently, he is working on system software for non-volatile memory technology, approximate computing and software-based packet processing.
+Currently, he is mainly working on system software technologies for emerging
+memory devices. He is the principal investigator of the research project
+supported by the JSPS Grant-in-Aid for Scientific Research (A), which aims at
+massively energy-efficient memory subsystems by developing approximate
+computing techniques throughout whole the memory hierarchy.
 
+He received the best paper award in ACM SoCC 2016 and the Yamashita SIG
+Research Award of Information Processing Society of Japan in 2014. He obtained
+a Ph.D. of engineering in 2007 at the Graduate School of Information Science of
+Nara Institute of Science and Technology (NAIST). He obtained the BS of
+Geophysics at Faculty of Science in Kyoto University in 2002. He is an expert
+of system software technologies, especially operating system and virtual
+machine. His research interests also cover computer architecture, FPGA and
+network technologies.
 
 ## Recent Selected Publications
 
@@ -34,12 +46,17 @@ Other publications are [here](../pub-en.html).
 
 ## Professional Experience
 
+### 2019.04 - Present
+
+Part-time lecturer, University of Tsukuba
+
+- Data science
 
 ### 2017.04 - 2018.03
 
-Planning Officer, Research Planning Office, Department of Information Technology and Human Factors, AIST
+Planning officer, Research Planning Office, Department of Information Technology and Human Factors, AIST
 
-- Support strategic planning and administration of the department
+- Strategic planning and administration of the department
 
 ### 2015.04 - Present
 
@@ -127,16 +144,21 @@ Key achievements:
 
 ## Research Funds (PI)
 
+Principal Investigator of Grant-in-Aid for Scientific Research (Type A)  
+A Study on Massively Energy-Efficient Memory Systems by Accepting Bit Flips (tentative translation)
+Period: April 2019 - March 2023 (4 years)  
+Budget: 45,110,000 Yen  
+https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-19H01108/
 
 Principal Investigator of Grant-in-Aid for Scientific Research (Type C)  
 A Study on Non-volatile Memory Emulation  
-Period: April 2015 - March 2017 (3 years)  
+Period: April 2016 - March 2019 (3 years)  
 Budget: 4,550,000 Yen  
 https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-16K00115/  
 
 Principal Investigator of Grant-in-Aid for Scientific Research (Type C)  
 A Study on Fast Wide-area Live Migration Techniques for Disaster Recovery  
-Period: April 2013 - March 2015 (3 years)  
+Period: April 2013 - March 2016 (3 years)  
 Budget: 2,990,000 Yen  
 http://kaken.nii.ac.jp/d/p/25330097.en.html
 
@@ -144,13 +166,13 @@ Principal Investigator of Grant-in-Aid for Young Scientists (Type B)
 A Study on Wide-area Migration of Large-Scale Virtual Machine Clusters  
 Period: April 2011 - March 2013 (2 years)  
 Budget: 1,950,000 Yen  
-http://kaken.nii.ac.jp/d/p/23700048.en.html  
+https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-23700048/
 
 Principal Investigator of Grant-in-Aid for Young Scientists (Type B)  
 A Study on Live Migration over Wide Area Network  
 Period: April 2008 - March 2011 (3 years)  
 Budget: 3,640,000 Yen  
-http://kaken.nii.ac.jp/d/p/20700038.en.html  
+https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-20700038/
 
 Principal Investigator of Grants for Rapid Response Research, i.e., Urgent funding for international collaborative research that arises from earthquake and subsequent tsunami and nuclear accidents (J-RAPID)  
 IT Virtualization for Disaster Mitigation and Recovery  

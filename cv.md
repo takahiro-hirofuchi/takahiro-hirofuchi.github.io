@@ -62,13 +62,15 @@ Planning officer, Research Planning Office, Department of Information Technology
 
 Tenured senior researcher, AIST
 
-- Main contributor to the ITRI part of AIST IMPULSE Program
-- Main contributor to the ITRI part of VICTORIES Program
+- Non-volatile memory devices and approximate computing
+- IMPULSE (Initiative for most power-efficient ultra-large-scale data exploration) Project
+- VICTORIES (Vertically integrated center for technologies of optical routing toward ideal energy saving) Project
 
 Key achievements:
 
-- A hypervisor support for hybrid main memory systems ([RAMinate](https://github.com/takahiro-hirofuchi/raminate))
-- System software for software-based packet processing
+- Hypervisor for hybrid main memory systems ([RAMinate](https://github.com/takahiro-hirofuchi/raminate))
+- [A software-based NVM emulator supporting read/write asymmetric latencies](http://doi.org/10.1587/transinf.2019PAP0018)
+- DPDK-based network emulator ([DEMU](https://github.com/ryousei/demu))
 
 ### 2013.01 - 2013.12
 

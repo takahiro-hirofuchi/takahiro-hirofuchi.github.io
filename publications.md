@@ -20,6 +20,3 @@ title: Publications
   [PDF (Full Text)](http://grivon.apgrid.org/assets/article/201509-ieeetcc-hirofuchi.pdf)
 
 Other publications are [here](../pub-en.html).
-
-
-

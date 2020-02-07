@@ -69,7 +69,7 @@ Tenured senior researcher, AIST
 Key achievements:
 
 - Hypervisor for hybrid main memory systems ([RAMinate](https://github.com/takahiro-hirofuchi/raminate))
-- Software-based NVM emulator supporting read/write asymmetric latencies([MESMERIC](https://takahiro-hirofuchi.github.io/mesmeric-emulator))
+- Software-based NVM emulator supporting read/write asymmetric latencies ([MESMERIC](https://takahiro-hirofuchi.github.io/mesmeric-emulator))
 - DPDK-based network emulator ([DEMU](https://github.com/ryousei/demu))
 
 ### 2013.01 - 2013.12

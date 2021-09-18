@@ -47,7 +47,7 @@ Other publications are [here](../pub-en.html).
 
 ### 2021.04 -
 
-- Team Leader, Computing Continuum Infrastructure Research Team of Digital Architecture Research Center (DigiARC), AIST
+Team Leader, Computing Continuum Infrastructure Research Team of Digital Architecture Research Center (DigiARC), AIST
 
 ### 2020.04 -
 

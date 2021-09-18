@@ -10,10 +10,7 @@ Takahiro Hirofuchi, Ph.D. is a senior researcher of National Institute of Advanc
 
 From the Cloud to Edge and Devices, our team is working hardware technologies and system software technologies supporting Continuum Computing. While the Cloud requires throughput-oriented technologies, the Edge requires latency-oriented technologies. We tackle research issues on throughput improvement, real-time assurance and energy saving, through an interdisciplinary approach to hardware and software co-design. For hardware and software co-design, our research is based on emerging semiconductor technologies and photonics technologies, in collaboration with the Department of Electronics and Manufacturing at AIST, and different universities and research institutes.
 
-I am the principal investigator of the research project
-supported by the JSPS Grant-in-Aid for Scientific Research (A), which aims at
-massively energy-efficient memory subsystems by developing [Error Permissive
-Computing techniques](http://error-permissive-computing.github.io/) throughout whole the memory hierarchy.
+Having that in mind, for example, I have commenced the interdisciplinary research project of [Error Permissive Computing](http://error-permissive-computing.github.io/), which aims at massively energy-efficient computing systems by redesigning hardware and software technologies. I am serving as the principal investigator of JSPS Grant-in-Aid for Scientific Research (A).
 
 I received the best paper award in ACM SoCC 2016 and the Yamashita SIG
 Research Award of Information Processing Society of Japan in 2014. I obtained
@@ -21,7 +18,7 @@ a Ph.D. of engineering in 2007 at the Graduate School of Information Science of
 Nara Institute of Science and Technology (NAIST). I obtained the BS of
 Geophysics at Faculty of Science in Kyoto University in 2002. I am an expert
 of system software technologies, especially operating system and hypervisor.
-His research interests also cover computer architecture, FPGA and network technologies.
+My research interests also cover computer architecture, FPGA and network technologies.
 
 ## Recent Selected Publications
 

@@ -4,25 +4,24 @@ title: CV
 ---
 
 Takahiro Hirofuchi, Ph.D. is a senior researcher of National Institute of Advanced Industrial Science and Technology (AIST).
-He is an expert of system software technologies.
 
 - The team leader of Computing Continuum Infrastructure Research Team of Digital Architecture Research Center (DigiARC), AIST
 - The director of the joint laboratory of AIST and TITECH (AIST-Tokyo Tech Real World Big-Data Computation Open Innovation Laboratory; RWBC-OIL)
 
-Currently, he is mainly working on system software technologies for emerging
-memory devices. He is the principal investigator of the research project
+From the Cloud to Edge and Devices, our team is working hardware technologies and system software technologies supporting Continuum Computing. While the Cloud requires throughput-oriented technologies, the Edge requires latency-oriented technologies. We tackle research issues on throughput improvement, real-time assurance and energy saving, through an interdisciplinary approach to hardware and software co-design. For hardware and software co-design, our research is based on emerging semiconductor technologies and photonics technologies, in collaboration with the Department of Electronics and Manufacturing at AIST, and different universities and research institutes.
+
+I am the principal investigator of the research project
 supported by the JSPS Grant-in-Aid for Scientific Research (A), which aims at
 massively energy-efficient memory subsystems by developing [approximate
 computing techniques](http://error-permissive-computing.github.io/) throughout whole the memory hierarchy.
 
-He received the best paper award in ACM SoCC 2016 and the Yamashita SIG
-Research Award of Information Processing Society of Japan in 2014. He obtained
+I received the best paper award in ACM SoCC 2016 and the Yamashita SIG
+Research Award of Information Processing Society of Japan in 2014. I obtained
 a Ph.D. of engineering in 2007 at the Graduate School of Information Science of
-Nara Institute of Science and Technology (NAIST). He obtained the BS of
-Geophysics at Faculty of Science in Kyoto University in 2002. He is an expert
-of system software technologies, especially operating system and virtual
-machine. His research interests also cover computer architecture, FPGA and
-network technologies.
+Nara Institute of Science and Technology (NAIST). I obtained the BS of
+Geophysics at Faculty of Science in Kyoto University in 2002. I am an expert
+of system software technologies, especially operating system and hypervisor.
+His research interests also cover computer architecture, FPGA and network technologies.
 
 ## Recent Selected Publications
 
@@ -45,6 +44,17 @@ Other publications are [here](../pub-en.html).
 
 
 ## Professional Experience
+
+### 2021.04 -
+
+- Team Leader, Computing Continuum Infrastructure Research Team of Digital Architecture Research Center (DigiARC), AIST
+
+### 2020.04 -
+
+Deputy Director (until 2021.06), Director (since 2021.07),  
+AIST-Tokyo Tech Real World Big-Data Computation Open Innovation Laboratory (RWBC-OIL)
+
+- The joint laboratory of AIST and TITECH
 
 ### 2019.04 - 2021.03
 
@@ -228,8 +238,7 @@ The Best Paper Award of the FREENIX track in the USENIX Annual Technical Confere
 
 ## Education
 
-
-Takahiro Hirofuchi obtained a Ph.D. of engineering in March 2007 at the Graduate School of Information Science of Nara Institute of Science and Technology (NAIST). He obtained the BS of Geophysics at Faculty of Science in Kyoto University in March 2002.
+I obtained a Ph.D. of engineering in March 2007 at the Graduate School of Information Science of Nara Institute of Science and Technology (NAIST). I obtained the BS of Geophysics at Faculty of Science in Kyoto University in March 2002.
 
 March 2007  
 Ph.D. in Information Systems, Graduate School of Information Science,  

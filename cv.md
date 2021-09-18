@@ -12,8 +12,8 @@ From the Cloud to Edge and Devices, our team is working hardware technologies an
 
 I am the principal investigator of the research project
 supported by the JSPS Grant-in-Aid for Scientific Research (A), which aims at
-massively energy-efficient memory subsystems by developing [approximate
-computing techniques](http://error-permissive-computing.github.io/) throughout whole the memory hierarchy.
+massively energy-efficient memory subsystems by developing [Error Permissive
+Computing techniques](http://error-permissive-computing.github.io/) throughout whole the memory hierarchy.
 
 I received the best paper award in ACM SoCC 2016 and the Yamashita SIG
 Research Award of Information Processing Society of Japan in 2014. I obtained

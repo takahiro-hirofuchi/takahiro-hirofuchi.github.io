@@ -4,9 +4,7 @@ title: CV
 ---
 
 Takahiro Hirofuchi, Ph.D. is a senior researcher of National Institute of Advanced Industrial Science and Technology (AIST).
-
-- The team leader of Computing Continuum Infrastructure Research Team of Digital Architecture Research Center (DigiARC), AIST
-- The director of the joint laboratory of AIST and TITECH (AIST-Tokyo Tech Real World Big-Data Computation Open Innovation Laboratory; RWBC-OIL)
+Currently, he is the team leader of Computing Continuum Infrastructure Research Team of Digital Architecture Research Center (DigiARC), AIST
 
 From the Cloud to Edge and Devices, our team is working hardware technologies and system software technologies supporting Continuum Computing. While the Cloud requires throughput-oriented technologies, the Edge requires latency-oriented technologies. We tackle research issues on throughput improvement, real-time assurance and energy saving, through an interdisciplinary approach to hardware and software co-design. For hardware and software co-design, our research is based on emerging semiconductor technologies and photonics technologies, in collaboration with the Department of Electronics and Manufacturing at AIST, and different universities and research institutes.
 
@@ -46,7 +44,7 @@ Other publications are [here](../pub-en.html).
 
 Team Leader, Computing Continuum Infrastructure Research Team of Digital Architecture Research Center (DigiARC), AIST
 
-### 2020.04 -
+### 2020.04 - 2022.03
 
 Deputy Director (until 2021.06), Director (since 2021.07),  
 AIST-Tokyo Tech Real World Big-Data Computation Open Innovation Laboratory (RWBC-OIL)

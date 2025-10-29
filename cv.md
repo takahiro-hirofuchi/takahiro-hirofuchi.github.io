@@ -4,11 +4,11 @@ title: CV
 ---
 
 Takahiro Hirofuchi, Ph.D. is a senior researcher of National Institute of Advanced Industrial Science and Technology (AIST).
-Currently, he is the team leader of Computing Continuum Infrastructure Research Team of Digital Architecture Research Center (DigiARC).
+Currently, he is the group leader of Computing Continuum Architecture Research Group of Information Platform Research Institute (IPRI).
 
 From the Cloud to Edge and Devices, our team is working hardware technologies and system software technologies supporting Continuum Computing. While the Cloud requires throughput-oriented technologies, the Edge requires latency-oriented technologies. We tackle research issues on throughput improvement, real-time assurance and energy saving, through an interdisciplinary approach to hardware and software co-design. For hardware and software co-design, our research is based on emerging semiconductor technologies and photonics technologies, in collaboration with the Department of Electronics and Manufacturing at AIST, and different universities and research institutes.
 
-Having that in mind, for example, I have commenced the interdisciplinary research project of [Error Permissive Computing](http://error-permissive-computing.github.io/), which aims at massively energy-efficient computing systems by redesigning hardware and software technologies. I am serving as the principal investigator of JSPS Grant-in-Aid for Scientific Research (A).
+Having that in mind, for example, I have commenced the interdisciplinary research project of [Error Permissive Computing](http://error-permissive-computing.github.io/), which aims at massively energy-efficient computing systems by redesigning hardware and software technologies. I leaded the project as the principal investigator of JSPS Grant-in-Aid for Scientific Research (A).
 
 I received the best paper award in ACM SoCC 2016 and the Yamashita SIG
 Research Award of Information Processing Society of Japan in 2014. I obtained
@@ -40,7 +40,11 @@ Other publications are [here](../pub-en.html).
 
 ## Professional Experience
 
-### 2021.04 -
+### 2025.04 -
+
+Group Leader, Computing Continuum Architecture Research Group of Information Platform Research Institute (IPRI), AIST
+
+### 2021.04 - 2025.03
 
 Team Leader, Computing Continuum Infrastructure Research Team of Digital Architecture Research Center (DigiARC), AIST
 

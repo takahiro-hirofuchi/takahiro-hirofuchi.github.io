@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Short Summary in Japanese
+title: 研究略歴
 ---
 
 広渕 崇宏 (ひろふち たかひろ)

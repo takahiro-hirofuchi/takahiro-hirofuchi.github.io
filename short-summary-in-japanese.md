@@ -68,9 +68,9 @@ title: 研究略歴
 - 2007年3月、奈良先端科学技術大学院大学 情報科学研究科 博士課程　修了
 
 学位：
-- 2001年3月、学士（理学）、京都大学理学部
-- 2004年3月、修士（工学）、奈良先端科学技術大学院大学情報科学研究科
-- 2007年3月、博士（工学）、奈良先端科学技術大学院大学情報科学研究科
+- 2001年3月、学士（理学）、京都大学 理学部
+- 2004年3月、修士（工学）、奈良先端科学技術大学院大学 情報科学研究科
+- 2007年3月、博士（工学）、奈良先端科学技術大学院大学 情報科学研究科
 
 
 教育実績：
@@ -158,6 +158,7 @@ title: 研究略歴
 - 2021年7月、学生優秀発表賞、相川洋貴、遠藤敏夫、幸朋矢、広渕崇宏、第180回ハイパフォーマンスコンピューティング研究発表会
 - 2020年3月、学生奨励賞、小沢公基、菅谷みどり、広渕崇宏、高野了成、一般社団法人情報処理学会第82回全国大会
 - 2011年11月、学生ポスター・デモンストレーション賞、穐山空道、広渕崇宏、高野了成、本位田真一、第23回コンピュータシステム・シンポジウム（ComSys2011）
+
 
 学術雑誌論文（査読あり、英文）：
 16 件
@@ -250,8 +251,8 @@ title: 研究略歴
    広渕崇宏, 小川宏高, 中田秀基, 伊藤智, 関口智嗣,  
    情報処理学会論文誌:コンピューティングシステム, pp.152-165, Vol.2, No.2, 情報処理学会, Jul 2009
 
-新聞、広報誌、プレプリントサーバ：
-7 件
+新聞、広報誌、プレプリント、プレス発表：
+8 件
 1. VolTune: A Fine-Grained Runtime Voltage Control Architecture for FPGA Systems,  
    Akram Ben Ahmed, Takahiro Hirofuchi, Takaaki Fukai,  
    arXiv, arXiv, Mar 2026,  
@@ -263,13 +264,16 @@ title: 研究略歴
    Takahiro Hirofuchi, Takaaki Fukai, Akram Ben Ahmed, Ryousei Takano, Kento Sato,  
    arXiv, arXiv, Sep 2023,  
    10.48550/arXiv.2309.06565
+1. NEDO事業においてソフトバンクが遅延制約下でスループットを最大化するシステムを開発,  
+   NEDO（国立研究開発法人新エネルギー・産業技術総合開発機構）, ソフトバンク株式会社,  
+   プレスリリース（2024年3月21日）, Mar 2024
 1. The Preliminary Evaluation of a Hypervisor-based Virtualization Mechanism for Intel Optane DC Persistent Memory Module,  
    Takahiro Hirofuchi, Ryousei Takano,  
    Computing Research Repository (CoRR), pp.1-9, Vol.abs/1907.12014, arXiv, Jul 2019
 1. 産総研における省エネルギー研究特集：データセンタの省エネルギー化,  
    伊藤智, 工藤知宏, 広渕崇宏,  
    産総研レポート, 独立行政法人産業技術総合研究所, Sep 2011
-1. Green by virtualization (Improvement of Evergy Efficiency in Cloud Computing),  
+1. Green by virtualization (Improvement of Energy Efficiency in Cloud Computing),  
    Takahiro Hirofuchi, Satoshi Itoh,  
    AIST TODAY International Edition, pp.15-16, National Institute of Advanced Industrial Science and Technology (AIST), Jun 2010
 1. クラウドコンピューティングの省エネ化（仮想化によるグリーン化）,  
@@ -334,7 +338,7 @@ title: 研究略歴
 1. Analyzing I/O Performance of a Hierarchical HPC Storage System for Distributed Deep Learning,  
    Takaaki Fukai, Kento Sato, Takahiro Hirofuchi,  
    Proceedings of the 23rd International Conference on Parallel and Distributed Computing, Applications and Technologies (PDCAT2022), Springer Lecture Notes in Computer Science (LNCS), pp.81-93, Springer, Jul 2022
-1. Read/Write Performance Evalution of Optane SSD,  
+1. Read/Write Performance Evaluation of Optane SSD,  
    Daiki Natori, Ryousei Takano, Takahiro Hirofuchi, Saneyasu Yamaguchi,  
    2021 International Conference on Emerging Technologies for Communications (ICETC2021), pp.1-1, IEICE, Dec 2021
 1. Demonstration of Multimaster EtherCAT-based control plane for Optical netWorks (MEOW),  
@@ -342,7 +346,7 @@ title: 研究略歴
    2021 Open Compute Project Future Technologies Symposium, OCP, Nov 2021
 1. Scalable FBP decomposition for cone-beam CT reconstruction,  
    Peng Chen, Mohamed Wahib, Xiao Wang, Takahiro Hirofuchi, Hirotaka Ogawa, Ander Biguri, Richard Boardman, Thomas Blumensath, Satoshi Matsuoka,  
-   Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis, pp.1-16, ACM, Nov 2021,  
+   Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis (SC), pp.1-16, ACM, Nov 2021,  
    10.1145/3458817.3476139
 1. A simulation of a memory subsystem using a highly energy-efficient but erroneous MRAM,  
    Daiki Saito, Takahiro Hirofuchi, Hiroko Arai, Yukinori Sato,  
@@ -406,7 +410,7 @@ title: 研究略歴
    Matthieu Imbert, Laurent Pouilloux, Jonathan Rouzaud-Cornabas, Adrien Lèbre, Takahiro Hirofuchi,  
    Proceedings of the 5th IEEE International Conference on Cloud Computing Technology and Services 2013 (CloudCom2013) (UNICO: UsiNg and building ClOud Testbeds), pp.158-163, Dec 2013,  
    10.1109/CloudCom.2013.119
-1. Adding Virtual Machine Abstractions into Simgrid,  
+1. Adding Virtual Machine Abstractions into SimGrid,  
    Takahiro Hirofuchi, Adrien Lèbre,  
    Proceedings of the 3rd International Conference on Cloud and Green Computing, pp.175-180, Sep 2013,  
    10.1109/CGC.2013.33
@@ -758,7 +762,7 @@ title: 研究略歴
 1. AIST Super Green Cloud: A Build-once-run-everywhere High Performance Computing Platform,  
    Takahiro Hirofuchi,  
    International Advanced Research Workshop on High Performance Computing, Grids and Clouds (HPC2014), Jul 2014
-1. Migrating Virtual Machines, Quickly, Smartly, and Far Away - Advanced Live Migration Technologeis for Energy-Efficient and Dependable Cloud Computing,  
+1. Migrating Virtual Machines, Quickly, Smartly, and Far Away - Advanced Live Migration Technologies for Energy-Efficient and Dependable Cloud Computing,  
    Takahiro Hirofuchi,  
    CAC (Center for Autonomic Computing) Seminar, Mar 2012
 1. xNBDによるストレージライブマイグレーション,  
@@ -921,7 +925,7 @@ title: 研究略歴
 1. Yabusame: Postcopy Live Migration for QEMU/KVM,  
    Isaku Yamahata, Takahiro Hirofuchi,  
    LinuxCon Japan 2012, Jun 2012
-1. Migrating Virtual Machines, Quickly, Smartly, and Far Away - Advanced Live Migration Technologeis for Energy-Efficient and Dependable Cloud Computing,  
+1. Migrating Virtual Machines, Quickly, Smartly, and Far Away - Advanced Live Migration Technologies for Energy-Efficient and Dependable Cloud Computing,  
    Takahiro Hirofuchi,  
    CAC (Center for Autonomic Computing) Seminar, Mar 2012
 1. IT Virtualization for Disaster Mitigation and Recovery,  
@@ -930,9 +934,9 @@ title: 研究略歴
 1. xNBDによるストレージライブマイグレーション,  
    広渕崇宏,  
    第4回クラウドストレージ研究会, Dec 2011
-1. Yabusame: Postcopy Live Migrationfor Qemu/KVM,  
+1. Yabusame: Postcopy Live Migration for Qemu/KVM,  
    Takahiro Hirofuchi,  
-   SC11 Booth Presentaion, Nov 2011
+   SC11 Booth Presentation, Nov 2011
 1. Yabusame: Postcopy Live Migration for Qemu/KVM,  
    Takahiro Hirofuchi, Isaku Yamahata,  
    Linux Plumbers Conference 2011, Sep 2011

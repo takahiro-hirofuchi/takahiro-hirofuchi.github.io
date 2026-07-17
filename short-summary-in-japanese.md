@@ -135,6 +135,7 @@ title: 研究略歴
 
 
 受賞（受賞対象が本人）：
+- 2026年7月、The Best Paper Award, The IEEE International Conference on Cloud Computing (CLOUD2026)
 - 2025年10月、The Best Paper Award Candidate, The 50th IEEE Conference on Local Computer Networks (LCN)
 - 2021年11月、CSA Best Paper Award, The Ninth International Symposium on Computing and Networking Workshops (CANDARW2021)
 - 2016年10月、The Best Paper Award in ACM Symposium on Cloud Computing 2016.
